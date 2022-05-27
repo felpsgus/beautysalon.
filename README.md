@@ -2,6 +2,8 @@
   <img alt="beautysalon." src="src/img/Capa.png" width="100%">
 </p>
 
+Confira a aplicação: https://felpsgus.github.io/beautysalon./
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
