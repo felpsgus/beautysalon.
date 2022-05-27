@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="beautysalon." src=".github/Capa.png" width="100%">
+  <img alt="beautysalon." src="src/img/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
