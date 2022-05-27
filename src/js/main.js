@@ -96,7 +96,7 @@ ScrollReveal({
 #services,
 #services .card,
 #testimonials,
-#testimonials .testimony,
+#testimonials .testimony
 #contact,
 #contact .button,
 #contact ul,
